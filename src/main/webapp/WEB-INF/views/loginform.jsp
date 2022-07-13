@@ -24,7 +24,7 @@
                 <input id="password" type="password" name="password" placeholder="비밀번호">
                 <label for="password">비밀번호</label>
             </div>
-            <div id="forgot">비밀번호 찾기</div>
+            <div id="forgot">비밀번호 찾기해</div>
             <input type="submit" value="로그인">
 
         </form>
